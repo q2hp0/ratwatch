@@ -1,0 +1,18 @@
+# example config for ratwatch. copy this to ratwatch.conf next to the exe
+# and uncomment/edit whatever you need. anything not in here just uses the
+# built-in defaults.
+
+# paths that should never trigger the "running from a drop folder" warning,
+# matched as a plain substring against the lowercased full exe path.
+# handy for stuff that legitimately lives in appdata.
+# ignore_path=\appdata\local\programs\microsoft vs code\
+# ignore_path=\appdata\roaming\discord\
+# ignore_path=\appdata\local\steam\
+
+# process names allowed to spawn a shell/script host without getting flagged
+# extra_shell_parent=obs64.exe
+# extra_shell_parent=autohotkey.exe
+
+# specific autorun entry names to always ignore even without a baseline file
+# ignore_run_entry=OneDrive
+# ignore_run_entry=MyBackupTool
