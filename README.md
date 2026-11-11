@@ -1,3 +1,5 @@
+# this project is just for learning, so dont take anything in the README too seriously , i write this README with ai 
+
 # ratwatch
 
 small windows watchdog tool i'm building to catch the kind of stuff rats like xworm / njrat / mason rat do
