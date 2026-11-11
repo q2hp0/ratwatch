@@ -1,4 +1,4 @@
-# this project is just for learning, so dont take anything in the README too seriously , i write this README with ai 
+# this project is just for learning, so dont take anything in the README too seriously , i write this README with ai . and yes i dont know exactly what README says
 
 # ratwatch
 
